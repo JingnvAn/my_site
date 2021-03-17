@@ -40,12 +40,13 @@ a{
   margin: 10px 20px;
   text-decoration: none;
 }
-a:hover{
+.footer-link:hover{
   color: #eaf6f6;
 }
 .intro{
   width: 40%;
   margin: auto;
+  text-align: justify;
 }
 .box1 {
   background-color: #e4f9f5;
@@ -99,7 +100,7 @@ a:hover{
 .skill-row{
   width: 50%;
   height: 25%;
-  margin: 100px auto 100px auto;
+  margin: 10px auto 100px auto;
   text-align: left;
   line-height: 2;
 }
